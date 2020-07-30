@@ -1,5 +1,5 @@
 {
-    "name": "moodleb/moodleb",
+    "name": "moodle/moodle",
     "license": "GPL-3.0-or-later",
     "description": "Moodle - the world's open source learning platform",
     "type": "project",
@@ -7,7 +7,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/NDIKUMAGENGE/moodleb"
+            "url": "https://github.com/moodlehq/php-webdriver.git"
         }
     ],
     "require-dev": {
@@ -16,7 +16,6 @@
         "moodlehq/behat-extension": "3.39.3",
         "mikey179/vfsstream": "^1.6",
         "instaclick/php-webdriver": "dev-local as 1.x-dev"
-		
 		
 		
 		
